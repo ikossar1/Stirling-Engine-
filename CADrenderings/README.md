@@ -1,1 +1,1 @@
-
+The files attached visualize CAD renderings made during the Stirling engine design process. The CAD renderings were made in collaboration with three other students from the Materials and Manufacturing I course.
